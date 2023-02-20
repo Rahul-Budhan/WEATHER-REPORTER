@@ -45,6 +45,7 @@ def connect(url):
                 print(a,end="\r")
                 time.sleep(0.15)
         print("Connected...")
+        print("Writing details..")
         time.sleep(1)
         continue
     return requests.get(url).json()
@@ -55,7 +56,6 @@ def convert_unix_to_datestr(dt):
 
 """Write Output into details.txt"""
 def write_details(details):
-    print("Writing details..")
     handle = open("./docs/details.txt","a")
 
     """convert returned unix value to string"""
