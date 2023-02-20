@@ -130,3 +130,69 @@ Humidity: 54
 Sunrise At : 2023-02-20 00:35:33
 Sunset At : 2023-02-20 12:05:25
 
+Location: Mussoorie
+ID :   804
+COD :  200
+Weather : Clouds
+Wind : 0.94
+Current Time : 2023-02-20 12:16:11
+Time Zone : 1970-01-01 05:30:00
+Humidity: 26
+Sunrise At : 2023-02-20 01:24:11
+Sunset At : 2023-02-20 12:39:04
+
+Location: Dehradun
+ID :   804
+COD :  200
+Weather : Clouds
+Wind : 0.95
+Current Time : 2023-02-20 12:09:11
+Time Zone : 1970-01-01 05:30:00
+Humidity: 24
+Sunrise At : 2023-02-20 01:24:13
+Sunset At : 2023-02-20 12:39:21
+
+Location: Delhi
+ID :   721
+COD :  200
+Weather : Haze
+Wind : 3.6
+Current Time : 2023-02-20 12:17:35
+Time Zone : 1970-01-01 05:30:00
+Humidity: 32
+Sunrise At : 2023-02-20 01:25:51
+Sunset At : 2023-02-20 12:44:20
+
+Location: Almora
+ID :   803
+COD :  200
+Weather : Clouds
+Wind : 1.88
+Current Time : 2023-02-20 12:16:29
+Time Zone : 1970-01-01 05:30:00
+Humidity: 29
+Sunrise At : 2023-02-20 01:17:01
+Sunset At : 2023-02-20 12:33:34
+
+Location: Pushkar
+ID :   800
+COD :  200
+Weather : Clear
+Wind : 4.53
+Current Time : 2023-02-20 12:16:36
+Time Zone : 1970-01-01 05:30:00
+Humidity: 10
+Sunrise At : 2023-02-20 01:34:25
+Sunset At : 2023-02-20 12:57:06
+
+Location: Kolkata
+ID :   721
+COD :  200
+Weather : Haze
+Wind : 2.57
+Current Time : 2023-02-20 12:12:31
+Time Zone : 1970-01-01 05:30:00
+Humidity: 54
+Sunrise At : 2023-02-20 00:35:33
+Sunset At : 2023-02-20 12:05:25
+
