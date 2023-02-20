@@ -1,0 +1,12 @@
+#Location 1 
+Mussoorie
+#Location 2 
+Dehradun
+#Location 3
+Delhi
+#Location 4
+Almora
+#Location 5
+Pushkar
+#Location 6 
+Kolkata
