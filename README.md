@@ -25,6 +25,8 @@ Go to the OpenWeatherMap website: https://openweathermap.org/
 
 `API_KEY = "your-api-key-here"`
 
++ Note the input will be taken from './docs/Locations.txt' and output into './docs/details.txt'
+
 ### Limitations
 This program is limited to retrieving current weather information for a given location. It does not provide forecasts or historical weather data.
 
