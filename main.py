@@ -2,7 +2,7 @@
 from classes import *
 
 """Initialization"""
-f = open('./env.json')
+f = open('./config.json')
 details =json.load(f)
 url = "http://api.openweathermap.org/data/2.5/weather?appid="+details['API_KEY']+"&q="
 
