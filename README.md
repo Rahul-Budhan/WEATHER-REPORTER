@@ -31,4 +31,4 @@ Go to the OpenWeatherMap website: https://openweathermap.org/
 This program is limited to retrieving current weather information for a given location. It does not provide forecasts or historical weather data.
 
 ### Credits
-This program was written by [Your Name]. It uses the OpenWeatherMap API to retrieve weather information.
+This program was written by Rahul Budhan. It uses the OpenWeatherMap API to retrieve weather information.
